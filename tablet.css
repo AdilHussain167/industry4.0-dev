@@ -1,0 +1,19 @@
+@import url("./style.css");
+
+/*
+===========================================
+CONTAcT SECTION
+===========================================
+*/
+#main-contact > :nth-child(2) {
+    align-items: center;
+}
+  /* 
+  ==================
+  Footer Bottom
+  ==================
+*/
+#main-footer > :nth-child(1) ul li{
+    margin-right: 19px;
+    margin-left: 1px;
+}
